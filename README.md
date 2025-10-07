@@ -5,7 +5,7 @@ Edemy provides a smooth platform to buy, access, and watch courses, featuring se
 
 ## 🔗 Live Demo
 
-👉 [Click Here to Try Edemy](https://gemini-clone-alpha-pearl.vercel.app/)
+👉 [Click Here to Try Edemy](https://edemy-theta.vercel.app/)
 
 # 🚀 Edemy
 
