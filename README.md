@@ -1,16 +1,66 @@
-# React + Vite
+🎓 Edemy – Learning Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern LMS (Learning Management System) built using React, Tailwind CSS, and Node.js.
+Edemy provides a smooth platform to buy, access, and watch courses, featuring secure authentication, a responsive UI, and all the essential tools of a modern online learning system.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click Here to Try Edemy](https://gemini-clone-alpha-pearl.vercel.app/)
 
-## React Compiler
+# 🚀 Edemy
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss)](https://tailwindcss.com/)
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Edemy-Website](./src/assets/preview1.PNG)
+![Edemy-Website](./src/assets/preview2.PNG)
+![Edemy-Website](./src/assets/preview3.PNG)
+![Edemy-Website](./src/assets/preview4.PNG)
+
+✨ Features
+
+🔐 Secure Authentication (Login / Signup / JWT Auth)
+
+📚 Course Purchase & Access System
+
+🎥 Watch Courses with Video Player
+
+🧑‍🏫 Instructor Dashboard (optional if added)
+
+⚡ Fast and Responsive UI
+
+🎨 Modern Tailwind-based Design
+
+📱 Fully Responsive on All Devices
+
+<br />
+<br />
+
+🛠️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/edemy.git
+cd edemy
+```
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+🧑‍💻 Author
+
+Abhay Chauhan
+🔗 [GitHub](https://github.com/abhay-004)
+• [LinkedIn](https://www.linkedin.com/in/abhay-chauhan-456869266/)
